@@ -1,0 +1,501 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" ftp_hostname="ftp://ftp.voxmarisband.com" ftp_rootfolder="/" exportTarget="FTP" domain="VOXMARISBAND.COM" resolutions="1x" timestamp="1569778250291">
+  <folder name="css">
+    <file name="site_global.css" crc="536221693"/>
+    <file name="index.css" crc="4177963767" ref="index"/>
+    <file name="iefonts_index.css" crc="3953476374" ref="index"/>
+    <file name="sample--news-page.css" crc="258059784" ref="sample--news-page"/>
+    <file name="iefonts_sample--news-page.css" crc="3922815387" ref="sample--news-page"/>
+  </folder>
+  <folder name="assets">
+    <file name="chicago.jpg" crc="409137296" seo="true" mt="1568917803000"/>
+    <file name="houston.jpg" crc="419286196" seo="true" mt="1568918725000"/>
+    <file name="concert-houston-web.png" crc="3887863441" seo="true" mt="1569521402000"/>
+    <file name="concert-chicago-web.png" crc="438039941" seo="true" mt="1569521439000"/>
+    <file name="black-t-shirt-bw-logo.png" crc="3801921256" seo="true" mt="1569533080000"/>
+    <file name="black-t-shirt-coloured-logo.png" crc="4268460509" seo="true" mt="1569533080000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="form_check.php" crc="147359589" ref="phone>index"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>index"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>index"/>
+    <file name="form-u48869.php" crc="32761154" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:tablet>index:index:sample--news-page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>sample--news-page:tablet>index:tablet>sample--news-page:index:sample--news-page"/>
+    <file name="form-u50801.php" crc="330179769" ref="tablet>index"/>
+    <file name="form-u24140.php" crc="4032779986" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="menu2.png" crc="3800244268" ref="phone>index:tablet>index:index:sample--news-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="menu2_1.png" crc="444097848" ref="phone>index:tablet>index:index:sample--news-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4161998341" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo211x182.png" crc="3940991298" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag1-u44846-fr.jpg" crc="261375263" ref="phone>index"/>
+    <file name="vox maris band front-u46776-fr.jpg" crc="536015883" ref="phone>index:tablet>index"/>
+    <file name="album-u51328-fr.jpg" crc="3785545307" ref="phone>index"/>
+    <file name="2-u44863-fr.jpg" crc="366844840" ref="phone>index"/>
+    <file name="vox maris band front-u46791-fr.jpg" crc="308799285" ref="phone>index"/>
+    <file name="dan paduraru.jpg" crc="3959113924" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rizo.jpg" crc="321218137" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adrian nechiti.jpg" crc="4059410201" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="andrei diaconu.jpg" crc="147421807" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marcel vinesar.jpg" crc="271672702" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="marius olteanu.jpg" crc="18153387" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concert.jpg" crc="400508815" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_cd_baby-u51236.png" crc="317450402" ref="phone>index"/>
+    <file name="cine este ea.jpg" crc="4291895766" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intre bare.jpg" crc="46011437" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="babylon-stands-against-god.jpg" crc="4204487760" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="we can save.jpg" crc="288403936" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="doina tare.jpg" crc="4248335661" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sarmi.jpg" crc="146491135" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="4008043116" ref="phone>index" seo="true">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="b-7193x294.jpg" crc="71291648" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-22196x294.jpg" crc="388025158" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0013_2196x294.jpg" crc="3970374213" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0036196x294.jpg" crc="313680464" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0041196x294.jpg" crc="4130813370" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0075196x294.jpg" crc="365467266" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag2 cd.jpg" crc="289963715" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag3 cd.jpg" crc="422390856" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag4 cd.jpg" crc="333694085" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u47884.jpg" crc="4006124339" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-7-crop-u48366.jpg" crc="4223282618" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-22-crop-u48392.jpg" crc="4174363353" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0013_2-crop-u48418.jpg" crc="4096034084" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0036-crop-u48444.jpg" crc="3784132760" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0041-crop-u48470.jpg" crc="4010329060" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0075-crop-u48496.jpg" crc="362507125" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag2 cd-crop-u48001.jpg" crc="3887912067" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag3 cd-crop-u48027.jpg" crc="177677888" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag4 cd-crop-u48053.jpg" crc="408138393" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="concert-houston-web259x389.jpg" crc="195093144" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concert-chicago-web.jpg" crc="4039358320" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="375022986" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shop1.png" crc="4044935908" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+    </file>
+    <file name="shop2.png" crc="3885341273" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+      <caption webpage="index" alt=" BUY NOW"/>
+    </file>
+    <file name="cv.jpg" crc="125923748" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111-u48866-fr.jpg" crc="129782526" ref="phone>index"/>
+    <file name="facebook-logo-rounded-u48925.png" crc="4177599900" ref="phone>index"/>
+    <file name="yt ok-u48927.png" crc="4229882340" ref="phone>index"/>
+    <file name="soundcloud-u48929.png" crc="26207998" ref="phone>index"/>
+    <file name="logo_cd_baby-u48931.png" crc="3936706688" ref="phone>index"/>
+    <file name="rn-logo_1200x630.jpg" crc="277723050" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig-logo-email.png" crc="108768196" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1 (1).jpg" crc="193282166" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-crop-u49415.png" crc="251401987" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pag1.jpg" crc="332796737" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo-rounded-u49436.png" crc="3868421983" ref="tablet>index"/>
+    <file name="yt ok-u49438.png" crc="443970356" ref="tablet>index"/>
+    <file name="soundcloud-u49440.png" crc="3933776363" ref="tablet>index"/>
+    <file name="logo_cd_baby-u49444.png" crc="159726463" ref="tablet>index"/>
+    <file name="2-u49474-fr.jpg" crc="470572388" ref="tablet>index"/>
+    <file name="back.png" crc="218978296" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next.png" crc="4259996501" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chicago.jpg" crc="145562928" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="houston.jpg" crc="4095792189" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album-u49977-fr.jpg" crc="4242696193" ref="tablet>index"/>
+    <file name="logo_cd_baby-u51229.png" crc="3826029700" ref="tablet>index"/>
+    <file name="b-7.jpg" crc="4269881376" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-22.jpg" crc="3973544925" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0013_2.jpg" crc="20512185" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0036.jpg" crc="179600295" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0041.jpg" crc="536183145" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0075.jpg" crc="4131226500" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-7-crop-u50138.jpg" crc="4223282618" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="b-22-crop-u50366.jpg" crc="4174363353" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0013_2-crop-u50392.jpg" crc="4096034084" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0036-crop-u50418.jpg" crc="3784132760" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0041-crop-u50444.jpg" crc="4010329060" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0075-crop-u50470.jpg" crc="362507125" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="concert-houston-web.jpg" crc="348472251" seo="true" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111-u50798-fr.jpg" crc="407732539" ref="tablet>index"/>
+    <file name="ig-logo-email-u51276.png" crc="4277992731" ref="tablet>index"/>
+    <file name="facebook-logo-rounded-u50892.png" crc="4161078271" ref="tablet>index"/>
+    <file name="yt ok-u50896.png" crc="3879422620" ref="tablet>index"/>
+    <file name="soundcloud-u50888.png" crc="269716075" ref="tablet>index"/>
+    <file name="logo_cd_baby-u50894.png" crc="3834468363" ref="tablet>index"/>
+    <file name="arrow180.png" crc="4152994168" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="4206947183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-logo-rounded-u46520.png" crc="3967584893" ref="index"/>
+    <file name="yt ok-u46540.png" crc="4023247078" ref="index"/>
+    <file name="soundcloud-u46550.png" crc="3914880556" ref="index"/>
+    <file name="logo_cd_baby-u46570.png" crc="99865220" ref="index"/>
+    <file name="vox maris band front.jpg" crc="4287377712" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="album.jpg" crc="50094663" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_cd_baby-u51222.png" crc="3826029700" ref="index"/>
+    <file name="deprte.jpg" crc="4060496105" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play.png" crc="4083695254" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="romanta.jpg" crc="502850744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="back_2.png" crc="3878030894" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next_2.png" crc="3813566944" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111870x516.jpg" crc="89003646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background texture with floor 20.jpg" crc="4090548248" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="current band.jpg" crc="3850510872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6341.jpg" crc="312789516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6342.jpg" crc="10433051" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-crop-u41821.jpg" crc="4041473598" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111-crop-u41841.jpg" crc="4086967473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="background texture with floor 20-crop-u41861.jpg" crc="4186983500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6341-crop-u41901.jpg" crc="4255255197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_6342334x222.jpg" crc="388402526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111.jpg" crc="521517985" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ig-logo-email-u51269.png" crc="4229991655" ref="index"/>
+    <file name="facebook-logo-rounded-u46650.png" crc="3840240359" ref="index"/>
+    <file name="yt ok-u46652.png" crc="491849642" ref="index"/>
+    <file name="soundcloud-u46654.png" crc="4061996113" ref="index"/>
+    <file name="logo_cd_baby-u46658.png" crc="3826029700" ref="index"/>
+    <file name="move to top.png" crc="70846493" ref="index:sample--news-page">
+      <caption webpage="index" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="700 x 453.jpg" crc="296693284" ref="sample--news-page">
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="130 x 130.jpg" crc="4153961862" ref="sample--news-page">
+      <caption webpage="sample--news-page" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="350 x 226.jpg" crc="4132653414" ref="sample--news-page">
+      <caption webpage="sample--news-page" alt=""/>
+    </file>
+    <file name="welcome-to-vox-maris-band-favicon.ico" crc="4019882164" ref="index"/>
+    <file name="available_at_amazon_1200x600_nvz5h2m-u51403.png" crc="243212682" ref="phone>index"/>
+    <file name="available_at_amazon_1200x600_nvz5h2m-u51396.png" crc="307989010" ref="tablet>index"/>
+    <file name="available_at_amazon_1200x600_nvz5h2m-u51386.png" crc="307989010" ref="index"/>
+    <file name="hiclipartcom-id_mhsdw.png" crc="3987932364" seo="true" ref="phone>index:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hiclipartcom-id_mhsdw-u51454.png" crc="234627597" ref="index"/>
+    <file name="22.jpg" crc="145357831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.jpg" crc="518307188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="sample--news-page.css" crc="368073680" ref="tablet>sample--news-page"/>
+      <file name="index.css" crc="500788846" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="169765165" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3927389206" seo="true" mt="1569557278850" redirect="true"/>
+    <file name="sample--news-page.html" crc="157107233" seo="true" mt="1568762044242" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4087796690" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3991360426" ref="phone>index"/>
+      <file name="sample--news-page.css" crc="3962416693" ref="phone>sample--news-page"/>
+    </folder>
+    <file name="index.html" crc="343548351" seo="true" mt="1569778220895" redirect="true"/>
+    <file name="sample--news-page.html" crc="4189265785" seo="true" mt="1568762044526" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="119686328" seo="true" mt="1569778182704" redirect="true"/>
+  <file name="sample--news-page.html" crc="4130272223" seo="true" mt="1568765176245" redirect="true"/>
+  <site>
+    <asset filename="chicago.jpg" muse_href="upload:U51012"/>
+    <asset filename="houston.jpg" muse_href="upload:U51019"/>
+    <asset filename="concert-houston-web.png" muse_href="upload:U51338"/>
+    <asset filename="concert-chicago-web.png" muse_href="upload:U51340"/>
+    <asset filename="black-t-shirt-bw-logo.png" muse_href="upload:U51370"/>
+    <asset filename="black-t-shirt-coloured-logo.png" muse_href="upload:U51372"/>
+    <paragraphStyle className="normal_text" uid="U48"/>
+    <paragraphStyle className="Feedback" uid="U3456"/>
+    <paragraphStyle className="Quote" uid="U3457"/>
+    <paragraphStyle className="Position" uid="U3459"/>
+    <paragraphStyle className="Name" uid="U3461"/>
+    <paragraphStyle className="ts03-Body" uid="U4737"/>
+    <characterStyle className="Quote" uid="U2820"/>
+    <nestedListStyle className="nls-None" uid="U51"/>
+  </site>
+  <renditions>
+    <rendition device="desktop">
+      <page name="Welcome to Vox Maris Band" filename="index.html" muse_href="page:U74" master="U65">
+        <breakpoint uid="U39388" maxwidth="1370" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U69:U1053" includeInBPs="U39388"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U69:U19933" includeInBPs="U39388"/>
+        <anchor name="About" html_id="about" muse_href="anchor:U69:U19934" includeInBPs="U39388"/>
+        <anchor name="Tour" html_id="tour" muse_href="anchor:U69:U36509" includeInBPs="U39388"/>
+        <anchor name="Media" html_id="media" muse_href="anchor:U69:U36510" includeInBPs="U39388"/>
+        <anchor name="News" html_id="news" muse_href="anchor:U69:U36511" includeInBPs="U39388"/>
+        <anchor name="Store" html_id="store" muse_href="anchor:U69:U36512" includeInBPs="U39388"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U69:U36513" includeInBPs="U39388"/>
+      </page>
+      <masterPage name="A-Master" master="U61" uid="U65">
+        <breakpoint uid="U39397" maxwidth="1370" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U61">
+        <breakpoint uid="U39393" maxwidth="1370" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Sample  News Page" filename="sample--news-page.html" muse_href="page:U16761" master="U65">
+        <breakpoint uid="U39389" maxwidth="1370" minwidth="0" squishy="false"/>
+        <anchor name="Top" html_id="top" muse_href="anchor:U16705:U36405" includeInBPs="U39389"/>
+      </page>
+    </rendition>
+    <rendition device="tablet">
+      <page name="Welcome to Vox Maris Band" filename="index.html" muse_href="page:U49111" master="U49054">
+        <breakpoint uid="U49083" maxwidth="768" minwidth="0" squishy="false"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U49082:U50932" includeInBPs="U49083"/>
+        <anchor name="About" html_id="about" muse_href="anchor:U49082:U50935" includeInBPs="U49083"/>
+        <anchor name="Tours" html_id="tours" muse_href="anchor:U49082:U50938" includeInBPs="U49083"/>
+        <anchor name="Media" html_id="media" muse_href="anchor:U49082:U50941" includeInBPs="U49083"/>
+        <anchor name="News" html_id="news" muse_href="anchor:U49082:U50944" includeInBPs="U49083"/>
+        <anchor name="Store" html_id="store" muse_href="anchor:U49082:U50947" includeInBPs="U49083"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U49082:U50950" includeInBPs="U49083"/>
+      </page>
+      <masterPage name="A-Master" master="U49026" uid="U49054">
+        <breakpoint uid="U49055" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U49026">
+        <breakpoint uid="U49027" maxwidth="768" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Sample  News Page" filename="sample--news-page.html" muse_href="page:U49141" master="U49054">
+        <breakpoint uid="U49113" maxwidth="768" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+    <rendition device="phone">
+      <page name="Welcome to Vox Maris Band" filename="index.html" muse_href="page:U43322" master="U43265">
+        <breakpoint uid="U43294" maxwidth="380" minwidth="0" squishy="false"/>
+        <anchor name="Home" html_id="home" muse_href="anchor:U43293:U48985" includeInBPs="U43294"/>
+        <anchor name="Band" html_id="band" muse_href="anchor:U43293:U48988" includeInBPs="U43294"/>
+        <anchor name="Tours" html_id="tours" muse_href="anchor:U43293:U48991" includeInBPs="U43294"/>
+        <anchor name="Media" html_id="media" muse_href="anchor:U43293:U48994" includeInBPs="U43294"/>
+        <anchor name="News" html_id="news" muse_href="anchor:U43293:U48997" includeInBPs="U43294"/>
+        <anchor name="Store" html_id="store" muse_href="anchor:U43293:U49000" includeInBPs="U43294"/>
+        <anchor name="Contact" html_id="contact" muse_href="anchor:U43293:U49003" includeInBPs="U43294"/>
+      </page>
+      <masterPage name="A-Master" master="U43237" uid="U43265">
+        <breakpoint uid="U43266" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U43237">
+        <breakpoint uid="U43238" maxwidth="380" minwidth="0" squishy="false"/>
+      </masterPage>
+      <page name="Sample  News Page" filename="sample--news-page.html" muse_href="page:U43352" master="U43265">
+        <breakpoint uid="U43324" maxwidth="380" minwidth="0" squishy="false"/>
+      </page>
+    </rendition>
+  </renditions>
+</manifest>
